@@ -122,8 +122,8 @@ command.
 
 ### BluetoothTerminal.js API
 
-Also, you can install [bluetooth-terminal](https://github.com/1oginov/bluetooth-terminal) package or
-[directly download the file](https://raw.githubusercontent.com/1oginov/bluetooth-terminal/master/BluetoothTerminal.js)
+Also, you can install [bluetooth-terminal](https://github.com/danzenti/bluetooth-terminal) package or
+[directly download the file](https://raw.githubusercontent.com/danzenti/bluetooth-terminal/master/BluetoothTerminal.js)
 containing `BluetoothTerminal` class written in ES6 and use it as you want. Here is a simple code snippet that can be
 helpful for a quick start:
 
