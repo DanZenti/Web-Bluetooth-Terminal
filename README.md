@@ -1,3 +1,8 @@
+# Forked from
+1oginov/Web-Bluetooth-Terminal
+
+WIP
+
 # Web Bluetooth Terminal
 
 [![devDependencies Status](https://david-dm.org/1oginov/Web-Bluetooth-Terminal/dev-status.svg)](https://david-dm.org/1oginov/Web-Bluetooth-Terminal?type=dev)
